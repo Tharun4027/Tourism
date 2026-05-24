@@ -1,0 +1,14 @@
+{
+  "name": "valarco-tourism-platform",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "admin",
+    "backend",
+    "shared"
+  ],
+  "scripts": {
+    "build": "echo \"Build all packages\"",
+    "start": "echo \"Start all services\""
+  }
+}
